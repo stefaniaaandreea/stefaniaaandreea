@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Stefania 👋
 
-<!--
-**stefaniaaandreea/stefaniaaandreea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunications student at Universitatea Politehnica din București  
+💻 Interested in Networking, Python and Software Development  
+🚀 Currently looking for an internship
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C / C++
+- TCP/IP
+- Linux
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+🔹 Python Port Scanner  
+Multithreaded TCP port scanner using socket programming.
+
+https://github.com/stefaniaaandreea/python-port-scanner
