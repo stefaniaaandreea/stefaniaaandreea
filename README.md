@@ -9,7 +9,6 @@
 * Python
 * C / C++
 * MATLAB
-* TCP/IP
 * Linux
 * Networking
 * Arduino / ESP32
