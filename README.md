@@ -1,7 +1,9 @@
 # Hi, I'm Stefania 👋
 
 🎓 Electronics & Telecommunications student at **Universitatea Națională de Știință și Tehnologie POLITEHNICA București**
+
 💻 Interested in **Networking, Embedded Systems and Software Development**
+
 🚀 Currently looking for an **internship**
 
 ## Skills
