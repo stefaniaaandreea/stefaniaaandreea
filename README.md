@@ -12,6 +12,9 @@
 * C / C++
 * MATLAB
 * Linux
+* OrCAD
+* PSpice
+* SystemVerilog
 * Networking
 * Arduino / ESP32
 
@@ -28,9 +31,3 @@ Design and simulation of a Wien Bridge oscillator using OrCAD.
 
 🔹 **Discord AI Bot**
 Discord bot written in Python.
-
-## Currently learning
-
-* Embedded programming
-* Networking
-* IoT systems
