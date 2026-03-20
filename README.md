@@ -10,6 +10,7 @@
 
 * Python
 * C / C++
+* SQL
 * MATLAB
 * Linux
 * OrCAD
